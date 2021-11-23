@@ -4,8 +4,7 @@ import Home from './pages/HomePage/Home';
 import Services from './pages/Services/Services';
 import Products from './pages/Products/Products';
 import SignUp from './pages/SignUp/SignUp';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import ScrollToTop from './components/ScrollToTop';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';import ScrollToTop from './components/ScrollToTop';
 import { Navbar, Footer } from './components';
 
 function App() {
@@ -14,12 +13,12 @@ function App() {
       <GlobalStyle />
       <ScrollToTop />
       <Navbar />
-      <Routes>
-        <Route path='/' exact element={Home} />
-        <Route path='/services' element={Services} />
-        <Route path='/products' element={Products} />
-        <Route path='/sign-up' element={SignUp} />
-      </Routes>
+      <Switch>
+        <Route path='/' exact component={Home} />
+        <Route path='/Services' component={Services} />
+        <Route path='/products' component={Products} />
+        <Route path='/sign-up' component={SignUp} />
+      </Switch>
       <Footer />
     </Router>
   );
