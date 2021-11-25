@@ -1,15 +1,14 @@
 import React from 'react';
-import { InfoSection, Pricing } from '../../components';
-import { homeObjOne, homeObjThree } from './Data';
+import { InfoSection } from '../../components';
+import { homeObjOne, homeObjTwo } from './Data';
 
-function Database() {
+function About() {
   return (
     <>
-      <Pricing />
       <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjThree} />
+      <InfoSection {...homeObjTwo} />
     </>
   );
 }
 
-export default Database;
+export default About;

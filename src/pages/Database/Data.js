@@ -1,12 +1,13 @@
 export const homeObjOne = {
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
-    topLine: 'Exclusive Access',
-    headline: 'Unlimited Transactions with zero fees',
+    lightBg: true,
+    lightText: false,
+    lightTopLine: false,
+    lightTextDesc: false,
+    topLine: 'View Our Products',
+    headline: 'Shop through our catalog of products',
     description:
-      'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
-    buttonLabel: 'Get Started',
+      'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
+    buttonLabel: 'Shop Now',
     imgStart: '',
     img: require('../../images/svg-1.svg'),
     alt: 'Credit Card'
@@ -15,6 +16,7 @@ export const homeObjOne = {
   export const homeObjTwo = {
     lightBg: false,
     lightText: true,
+    lightTopLine: true,
     lightTextDesc: true,
     topLine: '100% Secure',
     headline: 'Stay protected 24/7 anywhere anytime',
@@ -44,7 +46,7 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Data Analytics',
+    topLine: 'DATA ANALYTICS',
     headline: 'Every transaction is stored on our secure cloud database',
     description:
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
