@@ -18,22 +18,22 @@ export const homeObjOne = {
 
   
   
-  // export const homeObjTwo = {
-  //   primary: true,
-  //   lightBg: false,
-  //   lightTopLine: true,
-  //   lightText: true,
-  //   lightTextDesc: true,
-  //   topLine: 'Instant Setup',
-  //   headline: 'Extremely quick onboarding process',
-  //   description:
-  //     "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
-  //   buttonLabel: 'Learn More',
+   export const homeObjTwo = {
+     primary: true,
+     lightBg: false,
+     lightTopLine: true,
+     lightText: true,
+     lightTextDesc: true,
+     topLine: 'Features',
+     headline: 'Variety of User Focused Features',
+     description:
+       "Access to COVID-19 database, Information about the virus, and Comparison to other viruses from the past",
+     buttonLabel: 'Learn More',
   //   imgStart: '',
   //   img: require('../../images/svg-2.svg'),
   //   alt: 'Vault',
   //   start: ''
-  // };
+  };
   
   // export const homeObjThree = {
   //   primary: false,
