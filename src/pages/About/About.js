@@ -2,7 +2,7 @@ import React from 'react';
 import { InfoSection, Pricing } from '../../components';
 import { homeObjOne, homeObjThree } from './Data';
 
-function Database() {
+function About() {
   return (
     <>
       <Pricing />
@@ -12,4 +12,4 @@ function Database() {
   );
 }
 
-export default Database;
+export default About;
