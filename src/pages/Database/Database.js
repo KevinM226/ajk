@@ -1,13 +1,15 @@
 import React from 'react';
 import { InfoSection } from '../../components';
 import { homeObjOne, homeObjTwo } from './Data';
+import Table from './Table';
 
 function Database() {
   return (
     <>
-      <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjTwo} />
-    </>
+      <Table />
+      {//<InfoSection {...homeObjOne} />
+      //<InfoSection {...homeObjTwo} />
+      }</>
   );
 }
 
