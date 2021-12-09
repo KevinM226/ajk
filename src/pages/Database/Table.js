@@ -1,7 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Table.elements.css";
+import data from "./covid.json"
 
 const Table = () => {
+
+    const [covidData, setcovidData] = useState(data);
+
     return <div className="app-container">
         <table>
             <tbody>
@@ -11,11 +15,14 @@ const Table = () => {
                     <th>Total Deaths</th>
                     <th>Total Tests</th>
             </tr>
+            {covidData.map((tableData)=> <tr>
+                    <td>{tableData.state}</td>
+                    <td>{tableData.totalCase}</td>
+                    <td>{tableData.totalDeath}</td>
+                    <td>{tableData.totalTest}</td>
+                </tr>)}
                 <tr>
-                    <td>California</td>
-                    <td>5,005,507</td>
-                    <td>75,256</td>
-                    <td>113,539,006</td>
+                    
                 </tr>
             </tbody>
         </table>

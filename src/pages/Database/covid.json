@@ -1,0 +1,302 @@
+[
+    {
+        "state": "Alabama",
+        "totalCase": "850,096",
+        "totalDeath": "16,203",
+        "totalTest": "6,316,572"
+    },
+    {
+        "state": "Alaska",
+        "totalCase": "147,103",
+        "totalDeath": "853",
+        "totalTest": "3,566,952"
+    },
+    {
+        "state": "Arizona",
+        "totalCase": "1,301,597",
+        "totalDeath": "22,779",
+        "totalTest": "14,882,164"
+    },
+    {
+        "state": "Arkansas",
+        "totalCase": "534,590",
+        "totalDeath": "8,776",
+        "totalTest": "5,547,755"
+    },
+    {
+        "state": "Califonia",
+        "totalCase": "5,005,507",
+        "totalDeath": "75,256",
+        "totalTest": "113,539,006"
+    },
+    {
+        "state": "colorado",
+        "totalCase": "846,892",
+        "totalDeath": "9,755",
+        "totalTest": "13,365,969"
+    },
+    {
+        "state": "Conneticut",
+        "totalCase": "433,464",
+        "totalDeath": "8,909",
+        "totalTest": "12,588,536"
+    },
+    {
+        "state": "Delaware",
+        "totalCase": "157,175",
+        "totalDeath": "2,203",
+        "totalTest": "904,245"
+    },
+    {
+        "state": "District of Columbia",
+        "totalCase": "68,262",
+        "totalDeath": "1,197",
+        "totalTest": "2,438,570"
+    },
+    {
+        "state": "Florida",
+        "totalCase": "3,751,247",
+        "totalDeath": "61,789",
+        "totalTest": "44,160,923"
+    },
+    {
+        "state": "Georgia",
+        "totalCase": "1,673,082",
+        "totalDeath": "30,724",
+        "totalTest": "17,932,282"
+    },
+    {
+        "state": "Hawaii",
+        "totalCase": "88,512",
+        "totalDeath": "1,039",
+        "totalTest": "2,757,056"
+    },
+    {
+        "state": "Idaho",
+        "totalCase": "310,010",
+        "totalDeath": "3,995",
+        "totalTest": "2,316,778"
+    },
+    {
+        "state": "Illinois",
+        "totalCase": "1,867,912",
+        "totalDeath": "29,734",
+        "totalTest": "40,435,345"
+    },
+    {
+        "state": "Indiana",
+        "totalCase": "1,134,898",
+        "totalDeath": "17,829",
+        "totalTest": "15,721,809"
+    },
+    {
+        "state": "Iowa",
+        "totalCase": "570,581",
+        "totalDeath": "7,445",
+        "totalTest": "7,110,579"
+    },
+    {
+        "state": "Kansas",
+        "totalCase": "482,232",
+        "totalDeath": "6,768",
+        "totalTest": "1,941,982"
+    },
+    {
+        "state": "Kentucky",
+        "totalCase": "774,913",
+        "totalDeath": "11,348",
+        "totalTest": "10,735,334"
+    },
+    {
+        "state": "Louisiana",
+        "totalCase": "774,913",
+        "totalDeath": "14,861",
+        "totalTest": "11,719,950"
+    },
+    {
+        "state": "Maine",
+        "totalCase": "125,373",
+        "totalDeath": "1,356",
+        "totalTest": "3,873,309"
+    },
+    {
+        "state": "Maryland",
+        "totalCase": "592,679",
+        "totalDeath": "11,255",
+        "totalTest": "15,198,334"
+    },
+    {
+        "state": "Massachusetts",
+        "totalCase": "951,969",
+        "totalDeath": "19,567",
+        "totalTest": "34,122,857"
+    },
+    {
+        "state": "Michigan",
+        "totalCase": "1,553,790",
+        "totalDeath": "26,648",
+        "totalTest": "19,918,693"
+    },
+    {
+        "state": "Minnesota",
+        "totalCase": "937,408",
+        "totalDeath": "9,898",
+        "totalTest": "15,256,667"
+    },
+    {
+        "state": "Mississippi",
+        "totalCase": "517,925",
+        "totalDeath": "10,312",
+        "totalTest": "4,309,537"
+    },
+    {
+        "state": "Missouri",
+        "totalCase": "926,310",
+        "totalDeath": "15,535",
+        "totalTest": "11,538,883"
+    },
+    {
+        "state": "Montana",
+        "totalCase": "193,277",
+        "totalDeath": "2,781",
+        "totalTest": "2,203,661"
+    },
+    {
+        "state": "Nebraska",
+        "totalCase": "318,657",
+        "totalDeath": "3,202",
+        "totalTest": "4,266,087"
+    },
+    {
+        "state": "Nevada",
+        "totalCase": "476,196",
+        "totalDeath": "8,146",
+        "totalTest": "5,666,975"
+    },
+    {
+        "state": "New Hampshire",
+        "totalCase": "170,080",
+        "totalDeath": "1,757",
+        "totalTest": "3,597,755"
+    },
+    {
+        "state": "New Jersey",
+        "totalCase": "1,283,925",
+        "totalDeath": "28,518",
+        "totalTest": "16,205,906"
+    },
+    {
+        "state": "New York",
+        "totalCase": "2,886,449",
+        "totalDeath": "58,467",
+        "totalTest": "82,057,636"
+    },
+    {
+        "state": "North Carolina",
+        "totalCase": "1,558,510",
+        "totalDeath": "18,923",
+        "totalTest": "20,623,858"
+    },
+    {
+        "state": "North Dakota",
+        "totalCase": "165,845",
+        "totalDeath": "1,939",
+        "totalTest": "548,792"
+    },
+    {
+        "state": "Ohio",
+        "totalCase": "1,752,508",
+        "totalDeath": "27,011",
+        "totalTest": "18,416,266"
+    },
+    {
+        "state": "Oklahoma",
+        "totalCase": "676,890",
+        "totalDeath": "11,272",
+        "totalTest": "4,702,572"
+    },
+    {
+        "state": "Oregon",
+        "totalCase": "397,421",
+        "totalDeath": "5,299",
+        "totalTest": "8,215,379"
+    },
+    {
+        "state": "Pennsylvania",
+        "totalCase": "1,799,753",
+        "totalDeath": "34,198",
+        "totalTest": "20,200,730"
+    },
+    {
+        "state": "Rhode Island",
+        "totalCase": "198,729",
+        "totalDeath": "2,949",
+        "totalTest": "6,182,487"
+    },
+    {
+        "state": "South Carolina",
+        "totalCase": "926,454",
+        "totalDeath": "14,334",
+        "totalTest": "12,656,094"
+    },
+    {
+        "state": "South Dakota",
+        "totalCase": "170,416",
+        "totalDeath": "2,348",
+        "totalTest": "1,743,798"
+    },
+    {
+        "state": "Tennessee",
+        "totalCase": "1,329,496",
+        "totalDeath": "17,650",
+        "totalTest": "10,818,290"
+    },
+    {
+        "state": "Texas",
+        "totalCase": "4,362,710",
+        "totalDeath": "74,766",
+        "totalTest": "48,438,303"
+    },
+    {
+        "state": "Utah",
+        "totalCase": "607,954",
+        "totalDeath": "3,622",
+        "totalTest": "7,406,496"
+    },
+    {
+        "state": "Vermont",
+        "totalCase": "53,835",
+        "totalDeath": "425",
+        "totalTest": "2,647,621"
+    },
+    {
+        "state": "Virginia",
+        "totalCase": "988,147",
+        "totalDeath": "14,838",
+        "totalTest": "14,940,077"
+    },
+    {
+        "state": "Washington",
+        "totalCase": "789,394",
+        "totalDeath": "9,522",
+        "totalTest": "9,842,443"
+    },
+    {
+        "state": "West Virginia",
+        "totalCase": "303,173",
+        "totalDeath": "5,036",
+        "totalTest": "4,606,323"
+    },
+    {
+        "state": "Wisconsin",
+        "totalCase": "997,688",
+        "totalDeath": "10,134",
+        "totalTest": "12,463,689"
+    },
+    {
+        "state": "Wyoming",
+        "totalCase": "112,368",
+        "totalDeath": "1,472",
+        "totalTest": "2,005,467"
+    }
+]
