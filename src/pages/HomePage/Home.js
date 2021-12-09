@@ -1,15 +1,12 @@
 import React from 'react';
-import { homeObjOne, homeObjTwo } from './Data'; //, homeObjTwo, homeObjThree, homeObjFour
-import { InfoSection } from '../../components'; //, Pricing
+import { homeObjOne} from './Data'; 
+import { InfoSection } from '../../components'; 
 
 function Home() {
   return (
     <>
       <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjTwo} />
-      {/*<InfoSection {...homeObjTwo} />
-      <Pricing />
-      <InfoSection {...homeObjFour} /> */}
+    
     </>
   );
 }
