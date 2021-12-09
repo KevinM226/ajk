@@ -6,8 +6,6 @@ function About() {
   return (
     <>
       <Pricing />
-      <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjThree} />
     </>
   );
 }

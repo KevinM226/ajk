@@ -29,6 +29,8 @@ export const homeObjOne = {
      description:
        "Access to COVID-19 database, Information about the virus, and Comparison to other viruses from the past",
      buttonLabel: 'Learn More',
+
+     
   //   imgStart: '',
   //   img: require('../../images/svg-2.svg'),
   //   alt: 'Vault',
