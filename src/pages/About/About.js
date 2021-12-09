@@ -1,11 +1,11 @@
 import React from 'react';
-import { InfoSection, Pricing } from '../../components';
-import { homeObjOne, homeObjThree } from './Data';
+import { Abouts } from '../../components';
+
 
 function About() {
   return (
     <>
-      <Pricing />
+      <Abouts />
     </>
   );
 }
