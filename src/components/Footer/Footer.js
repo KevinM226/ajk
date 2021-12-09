@@ -36,37 +36,37 @@ function Footer() {
           If You Enjoyed the Site Check Out Some of Our Links Soon to Come
         </FooterSubHeading>
         <FooterSubText>Brought to you by team JAK</FooterSubText>
-        <Form>
+        {/* <Form>
           <FormInput name='email' type='email' placeholder='Your Email' />
           <Button fontBig>Subscribe</Button>
-        </Form>
+        </Form> */}
       </FooterSubscription>
       <FooterLinksContainer>
         <FooterLinksWrapper>
-          <FooterLinkItems>
+          {/* <FooterLinkItems>
             <FooterLinkTitle>About Us</FooterLinkTitle>
             <FooterLink to='/'>How it works</FooterLink>
             <FooterLink to='/'>Testimonials</FooterLink>
             <FooterLink to='/'>Careers</FooterLink>
             <FooterLink to='/'>Investors</FooterLink>
             <FooterLink to='/'>Terms of Service</FooterLink>
-          </FooterLinkItems>
+          </FooterLinkItems> */}
           <FooterLinkItems>
             <FooterLinkTitle>Contact Us</FooterLinkTitle>
             <FooterLink to='/'>Contact</FooterLink>
             <FooterLink to='/'>Support</FooterLink>
-            <FooterLink to='/'>Destinations</FooterLink>
+            {/* <FooterLink to='/'>Destinations</FooterLink> */}
             <FooterLink to='/'>Sponsorships</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
         <FooterLinksWrapper>
-          <FooterLinkItems>
+          {/* <FooterLinkItems>
             <FooterLinkTitle>Videos</FooterLinkTitle>
             <FooterLink to='/'>Submit Video</FooterLink>
             <FooterLink to='/'>Ambassadors</FooterLink>
             <FooterLink to='/'>Agency</FooterLink>
             <FooterLink to='/'>Influencer</FooterLink>
-          </FooterLinkItems>
+          </FooterLinkItems> */}
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
             <FooterLink to='/'>Instagram</FooterLink>
@@ -97,9 +97,9 @@ function Footer() {
             <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
               <FaTwitter />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='LinkedIn'>
+            {/* <SocialIconLink href='/' target='_blank' aria-label='LinkedIn'>
               <FaLinkedin />
-            </SocialIconLink>
+            </SocialIconLink> */}
           </SocialIcons>
         </SocialMediaWrap>
       </SocialMedia>
