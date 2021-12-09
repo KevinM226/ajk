@@ -1,0 +1,22 @@
+[
+    {
+        "virus": "COVID-19",
+        "totalCase": "50,351,067",
+        "totalDeath": "813,246"
+    },
+    {
+        "virus": "Ebola",
+        "totalCase": "28,652",
+        "totalDeath": "11,325"
+    },
+    {
+        "virus": "Swine Flu",
+        "totalCase": "60,800,000",
+        "totalDeath": "12,469"
+    },
+    {
+        "virus": "SARS",
+        "totalCase": "8,100",
+        "totalDeath": "811"
+    }
+]

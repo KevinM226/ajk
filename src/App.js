@@ -3,7 +3,7 @@ import GlobalStyle from './globalStyles';
 import Home from './pages/HomePage/Home';
 import Database from './pages/About/About';
 import About from './pages/Database/Database';
-//import SignUp from './pages/SignUp/SignUp';
+import Stats from './pages/Stats/Stats';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';import ScrollToTop from './components/ScrollToTop';
 import { Navbar, Footer } from './components';
 
@@ -17,9 +17,9 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/About' component={Database} />
         <Route path='/Database' component={About} />
-        {/* <Route path='/sign-up' component={SignUp} /> */}
+        <Route path='/Stats' component={Stats} />
       </Switch>
-      {/* <Footer /> */}
+     <Footer /> 
     </Router>
   );
 }

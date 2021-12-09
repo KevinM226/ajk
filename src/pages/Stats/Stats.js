@@ -1,12 +1,12 @@
 import React from 'react';
 import Table from './Table';
 
-function Database() {
+function Stats() {
   return (
     <>
-      <Table />
+      <Table/>
     </>
   );
 }
 
-export default Database;
+export default Stats;
